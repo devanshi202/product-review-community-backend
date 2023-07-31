@@ -8,7 +8,7 @@
 		<version>2.7.12</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.nagarro.training</groupId>
+	<groupId>com.springboot.project</groupId>
 	<artifactId>ProductAndReview</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ProductAndReview</name>
